@@ -1,0 +1,119 @@
+html, body{
+    margin: 0;
+    font-family: monospace;
+}
+.header{
+    height: 100px;
+}
+.header-text{
+    width: 700px;
+    margin: auto;
+}
+.header-text h1{
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+.header-banner{
+    height: 450px;
+    background-image: url(/resource/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content-div{
+    width: 1000px;
+    margin: auto;
+    height: fit-content;
+}
+
+.def-div h1{
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.def-div p{
+    font-size: 18px;
+    font-weight: lighter;
+}
+.skills-div h1{
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.skills-div p{
+    font-size: 18px;
+    font-weight: lighter;
+}
+.skills-div ul{
+    columns: 2;
+}
+.skills-div li{
+    font-size: 18px;
+    font-weight: lighter;
+    position: relative;
+    position: left; 
+    margin-left: 50px;
+}
+.fields-div h1{
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.fields-div p{
+    font-size: 18px;
+    font-weight: lighter;
+    position: relative;
+    margin-left: 50px;
+}
+.ai-img{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    background-image: url(/resource/ai.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.data-img{
+    width: 400px;
+    height: 250px;
+    margin: auto;
+    background-image: url(/resource/data.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.game-img{
+    width: 400px;
+    height: 250px;
+    margin: auto;
+    background-image: url(/resource/game.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.future-div h1{
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.future-div p{
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+.extraInfo-div h1{  
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.extraInfo-div p{
+    font-size: 18px;
+    font-weight: lighter;
+}
+.extraInfo-div h3{
+    font-size: 18px;
+    font-weight: lighter;
+    position: relative;
+    margin-left: 50px;
+    
+}
