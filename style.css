@@ -17,7 +17,7 @@ html, body{
 }
 .header-banner{
     height: 450px;
-    background-image: url(/resource/banner.png);
+    background-image: url(resource/banner.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -70,7 +70,7 @@ html, body{
     width: 400px;
     height: 400px;
     margin: auto;
-    background-image: url(/resource/ai.jpg);
+    background-image: url(resource/ai.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -78,7 +78,7 @@ html, body{
     width: 400px;
     height: 250px;
     margin: auto;
-    background-image: url(/resource/data.png);
+    background-image: url(resource/data.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -86,7 +86,7 @@ html, body{
     width: 400px;
     height: 250px;
     margin: auto;
-    background-image: url(/resource/game.jpg);
+    background-image: url(resource/game.jpg);
     background-repeat: no-repeat;
     background-size: contain;
 }
